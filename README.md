@@ -6,7 +6,7 @@
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/20.04/) Operating System
 * [GCC 11.2](https://gcc.gnu.org/gcc-11/) Compiler
 * Installation of Git (`sudo apt-get install git`)
-* Cloning of repo (`git clone https://github.com/Annette-Munyiri/monty.git`)
+* Cloning of repo (`git clone https://github.com/kamemia/monty.git`)
 ## Compiling
   The interpreter is compiled using the following line of code assuming the GCC compiler is installed and ready to run:
 ```
